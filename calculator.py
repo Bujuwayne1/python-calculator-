@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def calculator():
     try:
         num1 = float(input("Enter the first number: "))
@@ -27,6 +27,5 @@ def calculator():
 
 # Run the calculator
 calculator()
-=======
 # Basic Calculator
->>>>>>> 6b0038ff75a53ff4bfe51d42bd10d4122304b7ba
+
